@@ -1,5 +1,6 @@
-package dev.hoanglam.movies;
+package dev.hoanglam.movies.entity;
 
+import dev.hoanglam.movies.entity.Review;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
